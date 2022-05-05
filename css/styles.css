@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+    text-align: center;
+    padding-top: 500px;
+}
+
+a{
+    font-size: 30px;
+    text-decoration: none;
+    letter-spacing: 0.1cm;
+
+    color: black;
+}
